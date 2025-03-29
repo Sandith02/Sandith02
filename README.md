@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=180&section=header&text=SANDITH%20THENUWARA&desc=FULL%20STACK%20DEVELOPER&animation=twinkling&fontColor=fff&fontSize=40&fontAlignY=30&descSize=20&descAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=180&section=header&text=SANDITH%20SITHMAKA%20THENUWARA&desc=FULL%20STACK%20DEVELOPER&animation=twinkling&fontColor=fff&fontSize=40&fontAlignY=30&descSize=20&descAlignY=50" width="100%" />
 </div>
 
 <p align="center">
@@ -33,11 +33,11 @@
 * 🌐 Full Stack Developer specializing in modern web technologies
 * 🎓 Computer Science Undergraduate
 * ✨ Passionate about creating elegant digital solutions
-* 🚀 Currently mastering advanced React patterns
+* 🚀 Currently mastering MERN Stack
 * 🌱 Learning UI animation libraries & responsive design
 * 🔥 Based in Sri Lanka, coding for the world
 
-### 🔗 My Workspace
+### 💻 My Workspace
 
 <p>
   <img src="https://img.shields.io/badge/WINDOWS_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -50,7 +50,7 @@
 
 ## 🛠️ Skills & Technologies
 
-### Frontend Development
+### 🖥️ Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-### Backend Development
+### 🔧 Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### Developer Tools
+### ⚙️ Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -85,7 +85,7 @@
 
 <br>
 
-## 🔥 Showcase Projects
+## 📂 Showcase Projects
 
 <div align="center">
   <a href="https://github.com/Sandith02/Real-State-Web-Frontend">
@@ -113,7 +113,7 @@
 
 <br>
 
-## 📫 Get In Touch
+## 📩 Get In Touch
 
 <p>
   I'm currently looking for new opportunities to apply my skills and contribute to innovative projects. Whether you have a question or just want to say hi, feel free to reach out!
@@ -133,7 +133,7 @@
 <br>
 
 <div align="center">
-  <h2>🌱 My Coding Philosophy</h2>
+  <h2>💡 My Coding Philosophy</h2>
   
   ```javascript
   function SandithApproach() {

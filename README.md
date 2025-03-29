@@ -85,18 +85,6 @@
 
 <br>
 
-## 📂 Showcase Projects
-
-<div align="center">
-  <a href="https://github.com/Sandith02/Real-State-Web-Frontend">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sandith02&repo=Real-State-Web-Frontend&theme=react&bg_color=0D1117&title_color=4169E1&icon_color=F8D866&hide_border=true&show_icons=true" alt="Real-State-Web-Frontend" />
-  </a>
-  <a href="https://github.com/Sandith02/doctorAid-marketing-site">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sandith02&repo=doctorAid-marketing-site&theme=react&bg_color=0D1117&title_color=4169E1&icon_color=F8D866&hide_border=true&show_icons=true" alt="doctorAid-marketing-site" />
-  </a>
-</div>
-
-<br>
 
 ## 📈 Coding Activity
 

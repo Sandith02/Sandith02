@@ -1,168 +1,192 @@
-# <div align="center">⟱ SANDITH SITHMAKA ⟱</div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:004080,100:4169E1&height=150&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=180&section=header&text=SANDITH%20THENUWARA&desc=FULL%20STACK%20DEVELOPER&animation=twinkling&fontColor=fff&fontSize=40&fontAlignY=30&descSize=20&descAlignY=50" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Computer+Science+Student" alt="Subtitle" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Web+Development;UI%2FUX+Design;Creative+Coding;Problem+Solving" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Sandith02&theme=radical&hide_border=true&border_radius=20&background=0d1117&stroke=0077b6&ring=4169E1&fire=00b4d8&currStreakNum=ffffff&sideNums=0077b6&currStreakLabel=4169E1&sideLabels=00b4d8&dates=A9A9A9" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-
-## <div align="center">💫 ABOUT ME 💫</div>
-
-```js
-/** ===== WHO IS SANDITH? ===== **/
-
-class Developer {
-  constructor() {
-    this.name = "Sandith Sithmaka";
-    this.location = "Sri Lanka";
-    this.education = "Computer Science Undergraduate";
-    this.workspace = {
-      os: "Windows 11 / Ubuntu 22.04",
-      IDE: "VS Code",
-      browser: "Chrome / Firefox"
-    };
-  }
-
-  get interests() {
-    return [
-      "Web Development",
-      "UI/UX Design",
-      "Interactive Experiences",
-      "Creative Coding"
-    ];
-  }
-
-  get currentlyLearning() {
-    return [
-      "Advanced React Patterns",
-      "Responsive Design",
-      "MERN Stack Deployment",
-      "UI Animation Libraries"
-    ];
-  }
-
-  get aspirations() {
-    return "Creating digital solutions that solve real-world problems";
-  }
-}
-```
-
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-## <div align="center">⚡ MY SKILLS ⚡</div>
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfoliosandith02.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma&theme=dark&perline=3" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,firebase&theme=dark&perline=3" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Tools</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,heroku,netlify&theme=dark&perline=3" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3584e4&center=true&vCenter=true&width=600&height=70&lines=Computer+Science+Scholar;Web+Development+Enthusiast;UI/UX+Architect;Problem+Solver" />
 </div>
 
-<details>
-  <summary><h2>📊 CODING METRICS & STATS</h2></summary>
-  <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandith02&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=0077b6&text_color=c9d1d9&bg_color=0d1117" /> 
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandith02&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
-    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandith02&theme=radical" />
-  </div>
+<!-- GRID LAYOUT STARTS HERE -->
+<table>
+  <tr>
+    <!-- ABOUT ME SECTION -->
+    <td width="50%" valign="top">
+      <h2>👨‍💻 About Me</h2>
+      <img align="right" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+      <p>
+        • 🌐 Full Stack Developer specializing in modern web technologies<br/>
+        • 🎓 Computer Science Undergraduate<br/>
+        • 🌟 Passionate about creating elegant digital solutions<br/>
+        • 🚀 Currently mastering advanced React patterns<br/>
+        • 🌱 Learning UI animation libraries & responsive design<br/>
+        • 🔥 Based in Sri Lanka, coding for the world
+      </p>
+      <h3>My Workspace</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
+      </p>
+    </td>
+    
+    <!-- STATS SECTION -->
+    <td width="50%" valign="top">
+      <h2>📊 GitHub Analytics</h2>
+      <p align="center">
+        <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandith02&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="streak stats"/>
+      </p>
+      <p align="center">
+        <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Sandith02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=FFFFFF00" alt="github stats"/>
+      </p>
+    </td>
+  </tr>
   
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sandith02&theme=radical&no-frame=true&row=1&&column=7&no-bg=true" width="100%" />
-  </div>
-</details>
-
-## <div align="center">🔥 FEATURED PROJECTS 🔥</div>
+  <tr>
+    <!-- SKILLS SECTION -->
+    <td width="50%" valign="top">
+      <h2>🛠️ Skills & Technologies</h2>
+      <h3>Frontend Development</h3>
+      <p>
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+      </p>
+      
+      <h3>Backend Development</h3>
+      <p>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+      
+      <h3>Developer Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+      </p>
+    </td>
+    
+    <!-- PROJECTS SECTION -->
+    <td width="50%" valign="top">
+      <h2>🔥 Showcase Projects</h2>
+      <div>
+        <a href="https://github.com/Sandith02/Real-State-Web-Frontend">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandith02&repo=Real-State-Web-Frontend&theme=tokyonight&hide_border=true&bg_color=FFFFFF00" />
+        </a>
+        <p>
+          <strong>Real Estate Platform</strong> - A modern web application for property listings with advanced filtering and user management.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        </p>
+      </div>
+      <div style="margin-top: 20px;">
+        <a href="https://github.com/Sandith02/doctorAid-marketing-site">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandith02&repo=doctorAid-marketing-site&theme=tokyonight&hide_border=true&bg_color=FFFFFF00" />
+        </a>
+        <p>
+          <strong>DoctorAid Platform</strong> - A healthcare marketing platform designed to connect patients with healthcare providers.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- CODING ACTIVITY SECTION -->
+    <td colspan="2" valign="top">
+      <h2 align="center">📈 Coding Activity</h2>
+      <p align="center">
+        <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandith02&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- TOP LANGUAGES SECTION -->
+    <td width="50%" valign="top">
+      <h2>💻 Most Used Languages</h2>
+      <p align="center">
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandith02&layout=compact&theme=tokyonight&hide_border=true&bg_color=FFFFFF00" alt="Top Languages" />
+      </p>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=Sandith02&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+      </p>
+    </td>
+    
+    <!-- CONTACT SECTION -->
+    <td width="50%" valign="top">
+      <h2>📫 Get In Touch</h2>
+      <p>
+        I'm currently looking for new opportunities to apply my skills and contribute to innovative projects. Whether you have a question or just want to say hi, feel free to reach out!
+      </p>
+      <p>
+        <strong>📞 Contact:</strong> Available upon request<br>
+        <strong>📧 Email:</strong> youremail@example.com<br>
+        <strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile">Sandith Thenuwara</a><br>
+        <strong>🌐 Portfolio:</strong> <a href="https://portfoliosandith02.netlify.app/">portfoliosandith02.netlify.app</a>
+      </p>
+      <div align="center">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Real Estate Web Platform</h3>
-        <p align="center">
-          <a href="https://github.com/Sandith02/Real-State-Web-Frontend" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sandith02&repo=Real-State-Web-Frontend&theme=react&bg_color=0D1117&title_color=4169E1&icon_color=F8D866&hide_border=true&show_icons=true" alt="Real-State-Web-Frontend" />
-          </a>
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">DoctorAid Marketing Platform</h3>
-        <p align="center">
-          <a href="https://github.com/Sandith02/doctorAid-marketing-site" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sandith02&repo=doctorAid-marketing-site&theme=react&bg_color=0D1117&title_color=4169E1&icon_color=F8D866&hide_border=true&show_icons=true" alt="doctorAid-marketing-site" />
-          </a>
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <h2>🌱 My Coding Philosophy</h2>
+  
+  ```javascript
+  function SandithApproach() {
+    const passion = "Building meaningful digital experiences";
+    const focus = ["Clean Code", "User Experience", "Performance", "Innovation"];
+    const goal = "Creating solutions that make a difference";
+    
+    while (coding) {
+      learnNewTechnologies();
+      solveChallenges();
+      improveSkills();
+      
+      if (projectComplete) {
+        celebrate();
+        findNewChallenge();
+      }
+    }
+    
+    return success;
+  }
+  ```
 </div>
 
-## <div align="center">📈 CONTRIBUTION ACTIVITY 📈</div>
-
+<!-- TROPHY SECTION -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandith02&bg_color=0d1117&color=4169E1&line=0077b6&point=00b4d8&area=true&area_color=1e90ff1A&hide_border=true" width="95%" />
+  <h2>🏆 GitHub Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sandith02&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
-## <div align="center">🌐 CONNECT WITH ME 🌐</div>
-
+<!-- FOOTER -->
 <div align="center">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfoliosandith02.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Sandith02&label=PROFILE+VIEWS&style=for-the-badge&color=0077b6" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=150&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=120&section=footer" width="100%" />
 </div>

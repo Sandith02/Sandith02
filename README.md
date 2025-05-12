@@ -1,157 +1,152 @@
-# &lt;Beyond /&gt; Code
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=180&section=header&text=SANDITH%20SITHMAKA%20THENUWARA&desc=FULL%20STACK%20DEVELOPER&animation=fadeIn&fontColor=a0b4cc&fontSize=40&fontAlignY=30&descSize=20&descAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=180&section=header&text=SANDITH%20SITHMAKA%20THENUWARA&desc=FULL%20STACK%20DEVELOPER&animation=twinkling&fontColor=fff&fontSize=40&fontAlignY=30&descSize=20&descAlignY=50" width="100%" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sithmaka"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://portfolio-v1-six-plum.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-2a3a50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:lhthenuwara@gmail.com"><img src="https://img.shields.io/badge/-Email-a0b4cc?style=for-the-badge&logo=gmail&logoColor=202736"/></a>
-  <a href="https://github.com/Sandith02"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfoliosandith02.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=a0b4cc&center=true&vCenter=true&width=600&height=70&lines=Computer+Science+Undergraduate;Full+Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3584e4&center=true&vCenter=true&width=600&height=70&lines=Computer+Science+Undergraduate;Web+Development+Enthusiast;UI/UX+Architect;Problem+Solver" />
 </div>
 
 <br>
 
-## About Me
-
-<img align="right" width="320px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
-
-I'm a Computer Science student passionate about developing creative solutions to technical challenges. With strong attention to detail and a drive to continuously learn new technologies, I seek opportunities to contribute to impactful projects where I can apply and expand my programming skills.
-
-- 🌐 **Full Stack Developer** specializing in MERN stack and modern frameworks
-- 🎓 Pursuing **B.Sc. in Computer Science** at University of Westminster
-- 💻 Experienced in **React, React Native, Spring Boot, and Java applications**
-- 🚀 Focused on creating clean, efficient code and intuitive user experiences
-- 🔍 Interested in UI/UX design, responsive web development, and software architecture
-- 🌱 Currently exploring Next.js, TypeScript, and advanced animation techniques
-
-<br>
-
-## Technology Stack
-
-```javascript
-const techStack = {
-  frontend: {
-    languages: ["JavaScript", "HTML5", "CSS3"],
-    frameworks: ["React", "React Native", "Tailwind CSS", "Bootstrap"],
-    tools: ["Vite", "Figma"]
-  },
-  backend: {
-    languages: ["Java", "Python", "Node.js"],
-    frameworks: ["Spring Boot", "Express.js"],
-    databases: ["MongoDB", "MySQL"]
-  },
-  devTools: ["Git", "Docker", "Jest", "Postman"],
-  architecture: ["RESTful APIs", "Microservices", "MVC Pattern"],
-  currentlyLearning: ["Next.js", "TypeScript", "Three.js"]
-};
-```
-
-<br>
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">DoctorAid</h3>
-      <br />
-      <p align="center">
-        <a href="https://doctoraid.site" target="_blank">
-          <img src="https://via.placeholder.com/400x200?text=DoctorAid" width="100%" alt="DoctorAid Project"/>
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/DoctorAid" target="_blank">
-          <img src="https://img.shields.io/badge/Code-2a3a50?style=for-the-badge&logo=github"/>
-        </a>  
-        <a href="https://doctoraid.site" target="_blank">
-          <img src="https://img.shields.io/badge/Live-a0b4cc?style=for-the-badge&logo=vercel"/>
-        </a>
-      </p>
-      <p><strong>MERN Stack, Tailwind CSS, React Native</strong> - A web & mobile application for doctors and patients, enabling appointment booking and medical record management</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Ticket Booking System</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/Sandith02/OOP-CW" target="_blank">
-          <img src="https://via.placeholder.com/400x200?text=Ticket+Booking" width="100%" alt="Ticket Booking System"/>
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Sandith02/OOP-CW" target="_blank">
-          <img src="https://img.shields.io/badge/Code-2a3a50?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p><strong>Spring Boot, Java, React</strong> - A concurrent ticket booking system with thread safety and data consistency features to prevent double bookings</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Real Estate Website</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/Sandith02/Real-State-Web-Frontend" target="_blank">
-          <img src="https://via.placeholder.com/400x200?text=Real+Estate" width="100%" alt="Real Estate Website"/>
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Sandith02/Real-State-Web-Frontend" target="_blank">
-          <img src="https://img.shields.io/badge/Code-2a3a50?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p><strong>React, CSS</strong> - A responsive real estate website with property listings, search functionality, and interactive UI features</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">E-Commerce Site</h3>
-      <br />
-      <p align="center">
-        <img src="https://via.placeholder.com/400x200?text=E-Commerce" width="100%" alt="E-Commerce Site"/>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Code-2a3a50?style=for-the-badge&logo=github"/>
-      </p>
-      <p><strong>JavaScript, HTML, CSS</strong> - An e-commerce site with store and checkout functionality using modern CSS techniques</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## GitHub Statistics
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandith02&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=a0b4cc&currStreakLabel=a0b4cc&ring=2a3a50" width="49%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandith02&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=a0b4cc&icon_color=a0b4cc&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandith02&theme=react-dark&hide_border=true&color=a0b4cc&line=2a3a50&point=a0b4cc&bg_color=0D1117" width="95%" alt="Contribution Graph"/>
+  <a href="https://git.io/streak-stats">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandith02&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandith02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=FFFFFF00" alt="GitHub Stats"/>
+  </a>
 </div>
 
 <br>
 
-## Get In Touch
+## 👨‍💻 About Me
 
-I'm currently looking for new opportunities to apply my skills and contribute to innovative projects. Feel free to reach out if you'd like to collaborate or just chat about tech!
+<img align="right" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-- 📧 **Email:** [lhthenuwara@gmail.com](mailto:lhthenuwara@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/sithmaka](https://linkedin.com/in/sithmaka)
-- 🌐 **Portfolio:** [portfolio-v1-six-plum.vercel.app](https://portfolio-v1-six-plum.vercel.app/)
-- 📍 **Location:** Moratuwa, Western Province, Sri Lanka
+* 🌐 Full Stack Developer specializing in modern web technologies
+* 🎓 Computer Science Undergraduate
+* ✨ Passionate about creating elegant digital solutions
+* 🚀 Currently mastering MERN Stack
+* 🌱 Learning UI animation libraries & responsive design
+* 🔥 Based in Sri Lanka, coding for the world
+
+### 💻 My Workspace
+
+<p>
+  <img src="https://img.shields.io/badge/WINDOWS_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CHROME-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</p>
+
+<br>
+
+## 🛠️ Skills & Technologies
+
+### 🖥️ Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+### 🔧 Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### ⚙️ Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+<br>
+
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandith02&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandith02&style=for-the-badge&color=2a3a50&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandith02&layout=compact&theme=tokyonight&hide_border=true&bg_color=FFFFFF00" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Sandith02&theme=nord&column=4&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </div>
 
+<br>
+
+## 📩 Get In Touch
+
+<p>
+  I'm currently looking for new opportunities to apply my skills and contribute to innovative projects. Whether you have a question or just want to say hi, feel free to reach out!
+</p>
+
+<p>
+  <strong>📞 Contact:</strong> Available upon request<br>
+  <strong>📧 Email:</strong> youremail@example.com<br>
+  <strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile">Sandith Thenuwara</a><br>
+  <strong>🌐 Portfolio:</strong> <a href="https://portfoliosandith02.netlify.app/">portfoliosandith02.netlify.app</a>
+</p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=120&section=footer" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=Sandith02&label=PROFILE+VIEWS&style=for-the-badge&color=0077b6" alt="Profile Views" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>💡 My Coding Philosophy</h2>
+  
+  ```javascript
+  function SandithApproach() {
+    const passion = "Building meaningful digital experiences";
+    const focus = ["Clean Code", "User Experience", "Performance", "Innovation"];
+    const goal = "Creating solutions that make a difference";
+    
+    while (coding) {
+      learnNewTechnologies();
+      solveChallenges();
+      improveSkills();
+      
+      if (projectComplete) {
+        celebrate();
+        findNewChallenge();
+      }
+    }
+    
+    return success;
+  }
+  ```
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=120&section=footer" width="100%" />
 </div>

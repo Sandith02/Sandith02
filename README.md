@@ -1,5 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+👋+I'm+Sandith;Full+Stack+Developer+🚀;Building+Cool+Stuff+💻" alt="Sandith Sithmaka Thenuwara" />
+<h1 align="center" style="font-family: 'Orbitron', monospace; color: #1e3a8a; font-weight: bold;">
+  SANDITH SITHMAKA THENUWARA
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+👋+I'm+Sandith;Full+Stack+Developer+🚀;Building+Cool+Stuff+💻" alt="" />
 </h1>
 
 <br>
@@ -26,8 +28,10 @@ const sandith = {
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
+<br>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🎓 **Student** at University of Westminster (IIT)
 - 💻 **MERN Stack** enthusiast
@@ -132,19 +136,14 @@ const sandith = {
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandith02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandith02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Sandith02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandith02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandith02&theme=tokyonight&hide_border=true" alt="Sandith's streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandith02&theme=tokyonight&hide_border=true" alt="Sandith's streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandith02&bg_color=1a1b27&color=628fdb&line=d65db1&point=ffeb95&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-</div>
-
-<br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandith02&bg_color=1a1b27&color=628fdb&line=d65db1&point=ffeb95&area=true&hide_border=true" width="87.5%" alt="Contribution Graph"/>
+</div></div>
 
 <br>
 
@@ -166,11 +165,8 @@ const sandith = {
 <img src="https://komarev.com/ghpvc/?username=Sandith02&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
-
-
-
-<h2 align="center">⚡ Thanks for visiting! ⚡</h2>
-
+<be>
+<br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
 </div>

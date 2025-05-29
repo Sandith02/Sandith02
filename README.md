@@ -136,9 +136,9 @@ const sandith = {
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40"> GitHub Analytics
 
 <div align="center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Sandith02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandith02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandith02&theme=tokyonight&hide_border=true" alt="Sandith's streak"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Sandith02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandith02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandith02&theme=tokyonight&hide_border=true" alt="Sandith's streak"/>
 </div>
 
 <div align="center">

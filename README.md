@@ -165,8 +165,8 @@ const sandith = {
 <img src="https://komarev.com/ghpvc/?username=Sandith02&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
-<be>
+
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="170">
 </div>

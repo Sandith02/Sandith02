@@ -20,12 +20,18 @@
 
 ```javascript
 const sandith = {
-    location: "Sri Lanka 🇱🇰",
+    location: "Sri Lanka",
     education: "Computer Science @ University of Westminster (IIT)",
     currentRole: "Full Stack Developer",
-    currentlyWorking: "Healthcare Management Systems",
-    lookingFor: "Internship Opportunities 🎯",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    focus: "Full Stack Applications & Web Applications",
+    seeking: "Software Engineering Opportunities",
+    technologies: {
+        frontend: ["React", "React Native", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "Spring Boot", "Java", "Python"],
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Git", "Docker", "Figma", "Jest"]
+    },
+    interests: ["Problem Solving", "System Design", "User Experience"]
 };
 ```
 <br>

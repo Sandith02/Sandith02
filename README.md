@@ -1,6 +1,8 @@
 <h1 align="center" style="font-family: 'Orbitron', monospace; color: #1e3a8a; font-weight: bold;">
   SANDITH SITHMAKA THENUWARA
-  <br>
+
+
+   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+👋+I'm+Sandith;Full+Stack+Developer+🚀;Building+Cool+Stuff+💻" alt="" />
 </h1>
 
@@ -45,11 +47,8 @@ const sandith = {
 - 🎯 Looking for **internship opportunities**
 - ⚡ Fun fact: **I love solving complex problems!**
 
-<br clear="both"/>
+<br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"> Tech Stack
 
@@ -174,5 +173,6 @@ const sandith = {
 
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="150">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="55">
+  
 </div>

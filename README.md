@@ -7,12 +7,19 @@
 <br>
 
 <p align="center">
-  <b>Full Stack Developer | CS Undergraduate</b>
+  <b>Frontend-Focused Full Stack Developer | CS Undergraduate</b>
   <br><br>
-  I am a <b>Computer Science Undergraduate</b> at the University of Westminster (IIT) based in <b>Sri Lanka</b>. <br>
-  I specialize in building scalable web applications using the <b>MERN Stack</b> and <b>Spring Boot</b>. <br>
-  Currently looking for <b>internship opportunities</b> to apply my skills in solving complex problems.
+  Computer Science undergraduate at the University of Westminster (IIT), based in <b>Sri Lanka</b>, 
+  working as a <b>full-time developer.</b>
+  I build <b>modern, scalable web applications</b> with a strong focus on 
+  <b>frontend engineering</b> using <b>Next.js, React, and Tailwind CSS</b>, 
+  along with <b>Node.js</b> and <b>Spring Boot</b> on the backend.
+  I’m deeply interested in <b>automation and workflow engineering</b>, working with tools like 
+  <b>n8n</b> and <b>Make.com</b> to design efficient, scalable automations.
+  I enjoy turning ideas into <b>production-ready systems</b>.
 </p>
+
+
 
 <br>
 
@@ -22,15 +29,20 @@
   </a>
 </p>
 
+
+
+
 <br>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandith02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandith02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandith02&bg_color=1a1b27&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandith02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandith02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandith02&theme=tokyonight" width="100%" />
 </p>
 
 <br>

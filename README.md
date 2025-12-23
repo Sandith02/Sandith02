@@ -41,9 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandith02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandith02&theme=tokyonight" width="100%" />
-</p>
 
 <br>
 

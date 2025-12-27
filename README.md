@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <b>Frontend-Focused Full Stack Developer | CS Undergraduate</b>
+  <b>Full Stack Developer | CS Undergraduate</b>
   <br><br>
   Computer Science undergraduate at the University of Westminster (IIT), based in <b>Sri Lanka</b>, 
   working as a <b>full-time developer.</b>

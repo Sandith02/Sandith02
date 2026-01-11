@@ -34,12 +34,12 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandith02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandith02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
-</p>
+</p> -->
 
 
 <br>

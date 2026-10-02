@@ -1,44 +1,109 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 10px;">
-</p>
-<h1 align="center">SANDITH SITHMAKA THENUWARA</h1>
-<br>
-<p align="center">
-  <b>Full Stack Developer | CS Undergraduate</b>
-  <br><br>
-  Computer Science undergraduate at the University of Westminster (IIT), based in <b>Sri Lanka</b>, 
-  working as a <b>full-time developer.</b>
-  I build <b>modern, scalable web applications</b> with a strong focus on 
-  <b>frontend engineering</b> using <b>Next.js, React, and Tailwind CSS</b>, 
-  along with <b>Node.js</b> and <b>Spring Boot</b> on the backend.
-  I'm deeply interested in <b>automation and workflow engineering</b>, working with tools like 
-  <b>n8n</b> and <b>Make.com</b> to design efficient, scalable automations.
-  I enjoy turning ideas into <b>production-ready systems</b>.
-</p>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,java,spring,python,mongodb,mysql,git,docker,figma,jest&perline=9" />
+  <a href="https://www.sandithdev.com">
+    <img src="https://www.sandithdev.com/og/home?v=galaxy-3" alt="Quiet outside. Worlds within." width="100%" />
   </a>
 </p>
+
+<h1 align="center">Sandith Sithmaka Thenuwara</h1>
+
+<p align="center">
+  <strong>Design engineer · Creative frontend developer</strong>
+  <br>
+  Interfaces, identities and ideas carried into the real world.
+</p>
+
+<p align="center">
+  <a href="https://www.sandithdev.com"><img src="https://img.shields.io/badge/EXPLORE_MY_WORLD-303036?style=for-the-badge&logo=vercel&logoColor=e4e8e7" alt="Explore my portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sandith02/"><img src="https://img.shields.io/badge/LINKEDIN-15171a?style=for-the-badge" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:hello@sandithdev.com"><img src="https://img.shields.io/badge/SAY_HELLO-15171a?style=for-the-badge&logo=gmail&logoColor=e4e8e7" alt="Email me" /></a>
+</p>
+
 <br>
 
-<h2 align="center">📫 Connect with Me</h2>
-<p align="center">
-  <a href="mailto:lhthenuwara@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.sandithdev.com/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandith02&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Behind the screen</h3>
+      <p>
+        Based in <strong>Sri Lanka</strong>.<br>
+        Building things as a <strong>full-time developer</strong>.<br>
+        Studying <strong>Computer Science at Westminster / IIT</strong>.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Inside my mind</h3>
+      <p>
+        Typography. Motion. Unusual interfaces.<br>
+        The space between <strong>design and code</strong>.<br>
+        Small details that make something feel right.
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br>
+
+<h2 align="center">Choose a world</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://www.sandithdev.com/work">
+        <img src="https://www.sandithdev.com/og/work?v=galaxy-3" alt="Explore my work" width="100%" />
+      </a>
+      <br><br>
+      <strong>Interfaces · Websites · Visual identities</strong>
+      <br><br>
+      <a href="https://www.sandithdev.com/work">Explore the work →</a>
+      <br><br>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.sandithdev.com/blogs">
+        <img src="https://www.sandithdev.com/og/threads?v=galaxy-3" alt="Read my Threads" width="100%" />
+      </a>
+      <br><br>
+      <strong>Design · Code · Questions in between</strong>
+      <br><br>
+      <a href="https://www.sandithdev.com/blogs">Find a thread →</a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">Tools behind the worlds</h2>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="55">
+  <sub>INTERFACES & INTERACTION</sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,threejs,figma&theme=dark&perline=9" alt="Next.js, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Three.js and Figma" />
+</p>
+
+<br>
+
+<p align="center">
+  <sub>SYSTEMS & WORKFLOW</sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,mongodb,mysql,docker,git&theme=dark&perline=9" alt="Node.js, Express, Java, Spring Boot, Python, MongoDB, MySQL, Docker and Git" />
+  <br><br>
+  <img src="https://img.shields.io/badge/n8n-303036?style=flat-square&logo=n8n&logoColor=e4e8e7" alt="n8n" />
+  <img src="https://img.shields.io/badge/Make-303036?style=flat-square&logo=make&logoColor=e4e8e7" alt="Make" />
+  <img src="https://img.shields.io/badge/Jest-303036?style=flat-square&logo=jest&logoColor=e4e8e7" alt="Jest" />
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <strong>Something in mind?</strong>
+  <br><br>
+  <a href="https://www.sandithdev.com/contact">
+    <img src="https://img.shields.io/badge/LET'S_TALK_%E2%86%92-303036?style=for-the-badge" alt="Let's talk" />
+  </a>
+  <br><br>
+  <sub>Some things are finished. Others are still taking shape.</sub>
 </p>
